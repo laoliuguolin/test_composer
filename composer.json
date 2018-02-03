@@ -1,0 +1,13 @@
+{
+    "name": "laoliuguolin/test_composer",
+    "description": "to test composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "laoliuguolin",
+            "email": "22608466@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
